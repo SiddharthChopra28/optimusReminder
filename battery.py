@@ -1,6 +1,5 @@
 #!/bin/python
 
-from logging import exception
 from power import PowerManagement, POWER_TYPE_AC, POWER_TYPE_BATTERY #type:ignore
 import time
 from easygui import boolbox #type:ignore
