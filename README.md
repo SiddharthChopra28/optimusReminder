@@ -2,8 +2,7 @@
 reminder to switch GPU when plugged in and plugged out
   
 requirements:
-power
-easygui
+pip install power easygui
   
-on arch linux:
+on arch linux:  
   optimus-manager (optional)
